@@ -1,0 +1,2 @@
+D:\MA\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\MA\lab_on_git\Lab1\bin\Debug\Lab1.exe.config
