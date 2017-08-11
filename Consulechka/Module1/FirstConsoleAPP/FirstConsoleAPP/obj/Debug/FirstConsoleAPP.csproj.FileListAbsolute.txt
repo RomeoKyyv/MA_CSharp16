@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2017\Projects\FirstConsoleAPP\FirstConsoleAPP\bin\Debug\FirstConsoleAPP.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\FirstConsoleAPP\FirstConsoleAPP\bin\Debug\FirstConsoleAPP.exe
+c:\users\alex\documents\visual studio 2017\Projects\FirstConsoleAPP\FirstConsoleAPP\bin\Debug\FirstConsoleAPP.pdb
+c:\users\alex\documents\visual studio 2017\Projects\FirstConsoleAPP\FirstConsoleAPP\obj\Debug\FirstConsoleAPP.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\FirstConsoleAPP\FirstConsoleAPP\obj\Debug\FirstConsoleAPP.exe
+c:\users\alex\documents\visual studio 2017\Projects\FirstConsoleAPP\FirstConsoleAPP\obj\Debug\FirstConsoleAPP.pdb

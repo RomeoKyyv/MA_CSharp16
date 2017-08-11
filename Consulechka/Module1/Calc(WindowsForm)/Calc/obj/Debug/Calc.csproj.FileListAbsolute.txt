@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2017\Projects\Calc\Calc\bin\Debug\Calc.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\Calc\Calc\bin\Debug\Calc.exe
+c:\users\alex\documents\visual studio 2017\Projects\Calc\Calc\bin\Debug\Calc.pdb
+c:\users\alex\documents\visual studio 2017\Projects\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\Calc\Calc\obj\Debug\Calc.Form1.resources
+c:\users\alex\documents\visual studio 2017\Projects\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2017\Projects\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2017\Projects\Calc\Calc\obj\Debug\Calc.exe
+c:\users\alex\documents\visual studio 2017\Projects\Calc\Calc\obj\Debug\Calc.pdb

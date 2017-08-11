@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Lab1ConsoleAPP\Lab1ConsoleAPP\obj\Debug\Lab1ConsoleAPP.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Lab1ConsoleAPP\Lab1ConsoleAPP\bin\Debug\Lab1ConsoleAPP.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Lab1ConsoleAPP\Lab1ConsoleAPP\bin\Debug\Lab1ConsoleAPP.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Lab1ConsoleAPP\Lab1ConsoleAPP\bin\Debug\Lab1ConsoleAPP.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Lab1ConsoleAPP\Lab1ConsoleAPP\obj\Debug\Lab1ConsoleAPP.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\Lab1ConsoleAPP\Lab1ConsoleAPP\obj\Debug\Lab1ConsoleAPP.pdb

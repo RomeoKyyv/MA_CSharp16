@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2017\Projects\RandomConsole\RandomConsole\bin\Debug\RandomConsole.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\RandomConsole\RandomConsole\bin\Debug\RandomConsole.exe
+c:\users\alex\documents\visual studio 2017\Projects\RandomConsole\RandomConsole\bin\Debug\RandomConsole.pdb
+c:\users\alex\documents\visual studio 2017\Projects\RandomConsole\RandomConsole\obj\Debug\RandomConsole.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\RandomConsole\RandomConsole\obj\Debug\RandomConsole.exe
+c:\users\alex\documents\visual studio 2017\Projects\RandomConsole\RandomConsole\obj\Debug\RandomConsole.pdb
