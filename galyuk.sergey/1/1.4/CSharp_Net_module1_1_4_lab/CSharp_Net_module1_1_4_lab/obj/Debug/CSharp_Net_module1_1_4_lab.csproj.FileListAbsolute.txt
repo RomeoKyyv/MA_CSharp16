@@ -1,0 +1,21 @@
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Debug\CSharp_Net_module1_1_4_lab.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Debug\CSharp_Net_module1_1_4_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Debug\CSharp_Net_module1_1_4_lab.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\begin\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Debug\CSharp_Net_module1_1_4_lab.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\begin\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\begin\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\begin\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Debug\CSharp_Net_module1_1_4_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\begin\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Debug\CSharp_Net_module1_1_4_lab.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\webinar\od_labs\1_1_4\upgrade\begin\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\140316\1_1_4_lab\upgrade\begin\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Debug\CSharp_Net_module1_1_4_lab.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\140316\1_1_4_lab\upgrade\begin\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\140316\1_1_4_lab\upgrade\begin\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.pdb
+E:\C#\MainAcademy\Часть 1. Основы\Module 1. Basic principles of C#, CLR\1.4 Array, Structure, Enum\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Debug\CSharp_Net_module1_1_4_lab.exe.config
+E:\C#\MainAcademy\Часть 1. Основы\Module 1. Basic principles of C#, CLR\1.4 Array, Structure, Enum\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Debug\CSharp_Net_module1_1_4_lab.exe
+E:\C#\MainAcademy\Часть 1. Основы\Module 1. Basic principles of C#, CLR\1.4 Array, Structure, Enum\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\bin\Debug\CSharp_Net_module1_1_4_lab.pdb
+E:\C#\MainAcademy\Часть 1. Основы\Module 1. Basic principles of C#, CLR\1.4 Array, Structure, Enum\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.csprojResolveAssemblyReference.cache
+E:\C#\MainAcademy\Часть 1. Основы\Module 1. Basic principles of C#, CLR\1.4 Array, Structure, Enum\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.exe
+E:\C#\MainAcademy\Часть 1. Основы\Module 1. Basic principles of C#, CLR\1.4 Array, Structure, Enum\CSharp_Net_module1_1_4_lab\CSharp_Net_module1_1_4_lab\obj\Debug\CSharp_Net_module1_1_4_lab.pdb
