@@ -4,3 +4,6 @@ D:\MA\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
 D:\MA\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
 D:\MA\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
 D:\MA\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\MA\Seletsky\Seletsky\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\MA\Seletsky\Seletsky\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\MA\Seletsky\Seletsky\Lab1\Lab1\obj\Debug\Lab1.pdb
