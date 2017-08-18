@@ -5,7 +5,7 @@ namespace SharpProject.Airport
 {
     public class MainMenu
     {
-        private event EventHandler resetMenu;
+        private event EventHandler<string> resetMenu;
 
         public MainMenu()
         {
@@ -31,7 +31,7 @@ namespace SharpProject.Airport
         {
             if (input != null && input.Length <= 0)
             {
-                resetMenu(this, null);
+                resetMenu(this, "Cannot input letter, please use numeric: 1-5");
             }
             else
             {
@@ -42,11 +42,11 @@ namespace SharpProject.Airport
                 }
                 catch (FormatException e)
                 {
-                    resetMenu(this, null);
+                    resetMenu(this, "Please, enter a valid input: 1-5");
                 }
                 if (value > 5)
                 {
-                    resetMenu(this, null);
+                    resetMenu(this, "Please, enter a valid input: 1-5");
                 }
                 switch (value)
                 {
@@ -66,7 +66,7 @@ namespace SharpProject.Airport
                         DisplayEditMenu();
                         break;
                     default:
-                        resetMenu(this, null);
+                        resetMenu(this, "Please, enter a valid input: 1-5");
                         break;
                 }
             }
@@ -77,7 +77,7 @@ namespace SharpProject.Airport
             Console.Clear();
             Console.WriteLine("EditMeu");
             Console.ReadKey();
-            resetMenu(this, null);
+            resetMenu(this, "Please, enter a valid input: 1-5");
         }
 
         private void PrintPassengers()
@@ -85,7 +85,7 @@ namespace SharpProject.Airport
             Console.Clear();
             Console.WriteLine("Passengers");
             Console.ReadKey();
-            resetMenu(this, null);
+            resetMenu(this, "Please, enter a valid input: 1-5");
         }
 
         private void PrintPrices()
@@ -93,7 +93,7 @@ namespace SharpProject.Airport
             Console.Clear();
             Console.WriteLine("Prices");
             Console.ReadKey();
-            resetMenu(this, null);
+            resetMenu(this, "Please, enter a valid input: 1-5");
         }
 
         private void PrintDepartures()
@@ -101,7 +101,7 @@ namespace SharpProject.Airport
             Console.Clear();
             Console.WriteLine("Departures");
             Console.ReadKey();
-            resetMenu(this, null);
+            resetMenu(this, "Please, enter a valid input: 1-5");
         }
 
         private void PrintArrivals()
@@ -109,13 +109,14 @@ namespace SharpProject.Airport
             Console.Clear();
             Console.WriteLine("Arrivals");
             Console.ReadKey();
-            resetMenu(this, null);
+            resetMenu(this, "Please, enter a valid input: 1-5");
         }
 
-        private void ResetAndRedraw(object sender, EventArgs eventArgs)
+        private void ResetAndRedraw(object sender, string eventArgs)
         {
             Console.Clear();
             Console.WriteLine("Please, enter a valid input: 1-5");
+            Console.WriteLine(eventArgs);
             Console.ReadKey();
             displayMenu();
         }
