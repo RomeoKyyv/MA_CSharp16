@@ -1,0 +1,13 @@
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_государства\obj\Debug\States.csprojResolveAssemblyReference.cache
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_государства\bin\Debug\States.exe.config
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_государства\bin\Debug\States.exe
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_государства\bin\Debug\States.pdb
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_государства\obj\Debug\States.exe
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_государства\obj\Debug\States.pdb
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_государства\bin\Debug\States.exe.config
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_государства\bin\Debug\States.exe
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_государства\bin\Debug\States.pdb
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_государства\obj\Debug\States.csprojResolveAssemblyReference.cache
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_государства\obj\Debug\States.csproj.CoreCompileInputs.cache
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_государства\obj\Debug\States.exe
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_государства\obj\Debug\States.pdb

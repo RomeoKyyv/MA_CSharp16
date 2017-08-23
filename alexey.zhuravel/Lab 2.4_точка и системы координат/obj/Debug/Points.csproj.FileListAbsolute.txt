@@ -1,0 +1,13 @@
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_точка и системы координат\bin\Debug\Points.exe.config
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_точка и системы координат\bin\Debug\Points.exe
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_точка и системы координат\bin\Debug\Points.pdb
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_точка и системы координат\obj\Debug\Points.csprojResolveAssemblyReference.cache
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_точка и системы координат\obj\Debug\Points.exe
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 2.4_точка и системы координат\obj\Debug\Points.pdb
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_точка и системы координат\bin\Debug\Points.exe.config
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_точка и системы координат\bin\Debug\Points.exe
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_точка и системы координат\bin\Debug\Points.pdb
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_точка и системы координат\obj\Debug\Points.csprojResolveAssemblyReference.cache
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_точка и системы координат\obj\Debug\Points.csproj.CoreCompileInputs.cache
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_точка и системы координат\obj\Debug\Points.exe
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\alexey.zhuravel\Lab 2.4_точка и системы координат\obj\Debug\Points.pdb
