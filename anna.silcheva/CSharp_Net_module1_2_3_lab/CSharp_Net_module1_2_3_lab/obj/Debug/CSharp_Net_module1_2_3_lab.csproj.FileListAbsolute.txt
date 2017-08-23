@@ -10,3 +10,10 @@ D:\labs\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\obj\Debug\CSharp_N
 D:\labs\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\bin\Debug\CSharp_Net_module1_2_3_lab.exe.config
 D:\labs\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\bin\Debug\CSharp_Net_module1_2_3_lab.exe
 D:\labs\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\bin\Debug\CSharp_Net_module1_2_3_lab.pdb
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\anna.silcheva\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\bin\Debug\CSharp_Net_module1_2_3_lab.exe.config
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\anna.silcheva\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\bin\Debug\CSharp_Net_module1_2_3_lab.exe
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\anna.silcheva\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\bin\Debug\CSharp_Net_module1_2_3_lab.pdb
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\anna.silcheva\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\obj\Debug\CSharp_Net_module1_2_3_lab.csprojResolveAssemblyReference.cache
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\anna.silcheva\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\obj\Debug\CSharp_Net_module1_2_3_lab.csproj.CoreCompileInputs.cache
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\anna.silcheva\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\obj\Debug\CSharp_Net_module1_2_3_lab.exe
+D:\3.Training\2.PROGRAMS C++\6. Git Projects\MA_CSharp16\anna.silcheva\CSharp_Net_module1_2_3_lab\CSharp_Net_module1_2_3_lab\obj\Debug\CSharp_Net_module1_2_3_lab.pdb
