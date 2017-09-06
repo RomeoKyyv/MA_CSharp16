@@ -10,3 +10,8 @@ E:\sharp\SharpProject\bin\Debug\normnfkd.nlp
 E:\sharp\SharpProject\obj\Debug\SharpProject.csprojResolveAssemblyReference.cache
 E:\sharp\SharpProject\obj\Debug\SharpProject.exe
 E:\sharp\SharpProject\obj\Debug\SharpProject.pdb
+E:\sharp\SharpProject\bin\Debug\SharpProject.exe.config
+E:\sharp\SharpProject\bin\Debug\EntityFramework.dll
+E:\sharp\SharpProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\sharp\SharpProject\bin\Debug\EntityFramework.xml
+E:\sharp\SharpProject\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,11 +1,14 @@
 ﻿using System;
-using System.Runtime.InteropServices;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace SharpProject.Airport
 {
     public class MainMenu
     {
         private event EventHandler<string> resetMenu;
+
+        private List<Flight> flights;
 
         public MainMenu()
         {
@@ -22,7 +25,7 @@ namespace SharpProject.Airport
             Console.WriteLine("3 - Prices");
             Console.WriteLine("4 - Passengers");
             Console.WriteLine("5 - Modify info");
-            Console.WriteLine("");
+            Console.WriteLine();
             Console.Write("Input:");
             parseInput(Console.ReadLine());
         }
@@ -63,7 +66,7 @@ namespace SharpProject.Airport
                         PrintPassengers();
                         break;
                     case 5:
-                        DisplayEditMenu();
+                        DisplayEditMenu(null);
                         break;
                     default:
                         resetMenu(this, "Please, enter a valid input: 1-5");
@@ -72,7 +75,7 @@ namespace SharpProject.Airport
             }
         }
 
-        private void DisplayEditMenu()
+        private void DisplayEditMenu(List<Flight> flights)
         {
             Console.Clear();
             Console.WriteLine("EditMeu");

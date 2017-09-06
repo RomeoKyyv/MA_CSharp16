@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <HintPath>packages\EntityFramework.6.2.0-beta1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <HintPath>packages\EntityFramework.6.2.0-beta1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,8 +49,10 @@
   <ItemGroup>
     <Compile Include="Airport\AriportInit.cs" />
     <Compile Include="Airport\Flight.cs" />
+    <Compile Include="Airport\FlightProcessor.cs" />
     <Compile Include="Airport\FlightStatus.cs" />
     <Compile Include="Airport\MainMenu.cs" />
+    <Compile Include="Airport\Passenger.cs" />
     <Compile Include="Lab41\Customer.cs" />
     <Compile Include="Lab41\Lab41Init.cs" />
     <Compile Include="Lab41\OnlimeShop.cs" />
@@ -55,6 +63,14 @@
     <Compile Include="Lab43\Lab43Init.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sql\AirportDbApp.cs" />
+    <Compile Include="sql\DBConnector.cs" />
+    <Compile Include="sql\Passenger.cs" />
+    <Compile Include="sql\Plane.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

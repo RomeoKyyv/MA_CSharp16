@@ -1,6 +1,11 @@
-﻿using SharpProject.Airport;
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Threading;
+using SharpProject.Airport;
 using SharpProject.Lab41;
 using SharpProject.Properties;
+using SharpProject.sql;
 
 namespace SharpProject
 {
@@ -8,7 +13,7 @@ namespace SharpProject
     {
         public static void Main(string[] args)
         {
-            new AriportInit();
+            new AirportDbApp().RunProgram();
         }
     }
 }

@@ -10,6 +10,6 @@
         CANCELED,
         EXPECTED_AT,
         DELAYED,
-        IN_FLIGHT;
+        IN_FLIGHT
     }
 }
