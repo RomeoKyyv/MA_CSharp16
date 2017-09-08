@@ -50,14 +50,55 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BloggingContext.cs" />
+    <Compile Include="Mapping\AuthorMap.cs" />
+    <Compile Include="Migrations\201709061504419_InitialCreate.cs" />
+    <Compile Include="Migrations\201709061504419_InitialCreate.Designer.cs">
+      <DependentUpon>201709061504419_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201709061730019_AddUrl.cs" />
+    <Compile Include="Migrations\201709061730019_AddUrl.Designer.cs">
+      <DependentUpon>201709061730019_AddUrl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201709061813033_AddUser.cs" />
+    <Compile Include="Migrations\201709061813033_AddUser.Designer.cs">
+      <DependentUpon>201709061813033_AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201709061827263_ChangeDisplayName.cs" />
+    <Compile Include="Migrations\201709061827263_ChangeDisplayName.Designer.cs">
+      <DependentUpon>201709061827263_ChangeDisplayName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201709061859000_AddAuthor.cs" />
+    <Compile Include="Migrations\201709061859000_AddAuthor.Designer.cs">
+      <DependentUpon>201709061859000_AddAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Model\Author.cs" />
     <Compile Include="Model\Blog.cs" />
     <Compile Include="Model\Post.cs" />
+    <Compile Include="Model\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201709061504419_InitialCreate.resx">
+      <DependentUpon>201709061504419_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201709061730019_AddUrl.resx">
+      <DependentUpon>201709061730019_AddUrl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201709061813033_AddUser.resx">
+      <DependentUpon>201709061813033_AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201709061827263_ChangeDisplayName.resx">
+      <DependentUpon>201709061827263_ChangeDisplayName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201709061859000_AddAuthor.resx">
+      <DependentUpon>201709061859000_AddAuthor.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
