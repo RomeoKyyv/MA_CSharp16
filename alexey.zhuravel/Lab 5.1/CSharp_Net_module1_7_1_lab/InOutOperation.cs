@@ -58,8 +58,8 @@ namespace CSharp_Net_module1_7_1_lab
             dir.Create();
         }
 
-
-            public void CreateFile(string path, string fileName)
+        
+            public void CreateFile(string path, string fileName, string text)
         {
             try
             {
@@ -69,14 +69,17 @@ namespace CSharp_Net_module1_7_1_lab
                 //    byte[] msg_Arr = Encoding.Default.GetBytes(msg);
                 //    fileStream.Write(msg_Arr, 0, msg_Arr.Length);
                 //}
-
-
-                using (FileStream fs = File.Create(path))
+                FileInfo fi = new FileInfo(path+fileName);
+                using (FileStream fs = fi.Open(FileMode.OpenOrCreate,
+                       FileAccess.ReadWrite, FileShare.None))
                 {
-                    Byte[] info = new UTF8Encoding(true).GetBytes("This is some text in the file.");
-                    // Add some information to the file.
-                    fs.Write(info, 0, info.Length);
-                }
+                    byte[] textArr = Encoding.Default.GetBytes(text);
+                    fs.Write(textArr, 0, text.Length);
+
+                };
+
+                
+                
 
                 // Open the stream and read it back.
                 //using (StreamReader sr = File.OpenText(path))
@@ -98,16 +101,18 @@ namespace CSharp_Net_module1_7_1_lab
 
         // WriteData() – save data to file
         // method takes data (info about computers) as parameter
-        public void WriteData(Computer comp)
+        public string WriteData(Computer comp)
         {
             string str = "";
-            str += "Cores:/t" + comp.Cores+"/n";
-            str += "Frequency:/t" + comp.Frequency + "/n";
-            str += "Memory:/t" + comp.Memory + "/n";
-            str += "HDD:/t" + comp.Hdd + "/n/n";
+            str += "Cores:\t" + comp.Cores+"\n";
+            str += "Frequency:\t" + comp.Frequency + "\n";
+            str += "Memory:\t" + comp.Memory + "\n";
+            str += "HDD:\t" + comp.Hdd + "\n\n";
 
-            StreamWriter strWr = new StreamWriter(str);
-            strWr.Close();
+            return str;
+
+            //StreamWriter strWr = new StreamWriter(str);
+            //strWr.Close();
 
         }
 

@@ -20,14 +20,15 @@ namespace CSharp_Net_module1_7_1_lab
             };
 
             // set path to file and file name
-            string path = @"E:\Dir1";
+            string path = @"E:\";
 
 
             // 4) save data and read it in the seamplest way (with WriteData() and ReadData() methods)
             InOutOperation io = new InOutOperation();
-            io.CreateDirectory(path, "Dir1");
+            //io.CreateDirectory(path, "Dir1");
 
-            io.CreateFile(path, "File1");
+            string text = io.WriteData(comps[1]);
+            io.CreateFile(path, "File1.txt", text);
 
 
             // 5) save data and read it with WriteZip() and ReadZip() methods
