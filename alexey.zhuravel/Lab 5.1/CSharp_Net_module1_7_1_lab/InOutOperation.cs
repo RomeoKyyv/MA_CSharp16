@@ -127,9 +127,25 @@ namespace CSharp_Net_module1_7_1_lab
 
         // WriteZip() – save data to zip file
         // method takes data (info about computers) as parameter
-        public void WriteZip()
+        public void WriteZip(string inFl, string outFl)
         {
-            
+            FileStream src = File.OpenRead(inFl);
+            //src.Close();
+            FileStream dst = File.Create(outFl);
+
+            GZipStream zipStr = new GZipStream(dst, CompressionMode.Compress);
+            int oneByte = src.ReadByte();
+
+            while(oneByte!=-1)
+            {
+                zipStr.WriteByte((byte)oneByte);
+                oneByte = src.ReadByte();
+
+            }
+
+            src.Close();
+            zipStr.Close();
+            dst.Close();
         }
 
 

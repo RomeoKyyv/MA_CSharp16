@@ -33,6 +33,9 @@ namespace CSharp_Net_module1_7_1_lab
 
             // 5) save data and read it with WriteZip() and ReadZip() methods
             // Note: create another file for these operations
+            string inFl = @"E:\1.txt";
+            string outFl = @"E:\2.zip";
+            io.WriteZip(inFl, outFl);
 
             // 6) read info about computers asynchronously (from the 1st file)
             // While asynchronous method will be running, Main() method must print ‘*’ 
