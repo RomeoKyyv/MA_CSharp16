@@ -1,0 +1,36 @@
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirst_Linq.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirst_Linq.Migrations.InitialCreate.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirst_Linq.Migrations.ElseTables.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirst_Linq.csproj.GenerateResource.Cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\Hello_CodeFirstLing.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\Hello_CodeFirstLing.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\Hello_CodeFirstLing.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirstLing.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirstLing.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirstLinq_bysteps\Begin\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\Hello_CodeFirstLing.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirstLinq_bysteps\Begin\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirstLing.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirstLinq_bysteps\Begin\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirstLing.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\130516_25\Lab_1_7_6\Hello_CodeFirstLinq_bysteps — копия\Begin\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\Hello_CodeFirstLing.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\130516_25\Lab_1_7_6\Hello_CodeFirstLinq_bysteps — копия\Begin\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirstLing.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\130516_25\Lab_1_7_6\Hello_CodeFirstLinq_bysteps — копия\Begin\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirstLing.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\130516_25\Lab_1_7_6\Hello_CodeFirstLinq_bysteps\Begin\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\Hello_CodeFirstLing.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\130516_25\Lab_1_7_6\Hello_CodeFirstLinq_bysteps\Begin\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirstLing.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\130516_25\Lab_1_7_6\Hello_CodeFirstLinq_bysteps\Begin\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirstLing.pdb
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\bin\Debug\Hello_CodeFirstLing.exe.config
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\bin\Debug\Hello_CodeFirstLing.exe
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\bin\Debug\Hello_CodeFirstLing.pdb
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\bin\Debug\EntityFramework.dll
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\bin\Debug\EntityFramework.xml
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\obj\Debug\Hello_CodeFirst_Linq.csprojResolveAssemblyReference.cache
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\obj\Debug\Hello_CodeFirst_Linq.Migrations.InitialCreate.resources
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\obj\Debug\Hello_CodeFirst_Linq.Migrations.ElseTables.resources
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\obj\Debug\Hello_CodeFirst_Linq.csproj.GenerateResource.Cache
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\obj\Debug\Hello_CodeFirst_Linq.csproj.CoreCompileInputs.cache
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\obj\Debug\Hello_CodeFirstLing.exe
+D:\3.Training\2.PROGRAMS C++\7. Main Academy\2. Labs\Lab 5.6\Hello_CodeFirst\obj\Debug\Hello_CodeFirstLing.pdb
