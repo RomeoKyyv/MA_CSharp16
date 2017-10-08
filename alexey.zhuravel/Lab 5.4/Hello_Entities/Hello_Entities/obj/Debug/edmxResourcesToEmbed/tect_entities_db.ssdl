@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tect_entities_dbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="course_lecturers">
+    <Key>
+      <PropertyRef Name="course_id" />
+      <PropertyRef Name="lc_id" />
+    </Key>
+    <Property Name="course_id" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="lc_id" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="lc_order" Type="smallint" Nullable="false" />
+    <Property Name="share" Type="decimal" Precision="5" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="courses">
+    <Key>
+      <PropertyRef Name="course_id" />
+    </Key>
+    <Property Name="course_id" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="course_name" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="type" Type="varchar" MaxLength="20" />
+    <Property Name="facl_id" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="size" Type="int" />
+    <Property Name="marks" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="quantity" Type="int" />
+    <Property Name="begin_date" Type="date" />
+    <Property Name="contract" Type="smallint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="email">
+    <Key>
+      <PropertyRef Name="em_Id" />
+    </Key>
+    <Property Name="em_Id" Type="int" Nullable="false" />
+    <Property Name="em_value" Type="nvarchar(max)" />
+    <Property Name="lc_id" Type="char" MaxLength="3" />
+  </EntityType>
+  <EntityType Name="faculties">
+    <Key>
+      <PropertyRef Name="facl_id" />
+    </Key>
+    <Property Name="facl_id" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="facl_name" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="university" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="state" Type="char" MaxLength="2" />
+    <Property Name="country" Type="varchar" MaxLength="15" Nullable="false" />
+  </EntityType>
+  <EntityType Name="lecturers">
+    <Key>
+      <PropertyRef Name="lc_id" />
+    </Key>
+    <Property Name="lc_id" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="lc_fname" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="lc_lname" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="phone" Type="varchar" MaxLength="12" />
+    <Property Name="address" Type="varchar" MaxLength="20" />
+    <Property Name="city" Type="varchar" MaxLength="15" />
+    <Property Name="state" Type="char" MaxLength="2" />
+    <Property Name="zip" Type="char" MaxLength="5" />
+  </EntityType>
+  <EntityType Name="ratings">
+    <Key>
+      <PropertyRef Name="course_id" />
+    </Key>
+    <Property Name="course_id" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="bonus" Type="decimal" Precision="9" Scale="2" />
+    <Property Name="rate" Type="decimal" Precision="5" Scale="2" />
+  </EntityType>
+  <Association Name="fk_Peremail">
+    <End Role="lecturers" Type="Self.lecturers" Multiplicity="0..1" />
+    <End Role="email" Type="Self.email" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="lecturers">
+        <PropertyRef Name="lc_id" />
+      </Principal>
+      <Dependent Role="email">
+        <PropertyRef Name="lc_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="tect_entities_dbModelStoreContainer">
+    <EntitySet Name="course_lecturers" EntityType="Self.course_lecturers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="courses" EntityType="Self.courses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="email" EntityType="Self.email" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="faculties" EntityType="Self.faculties" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="lecturers" EntityType="Self.lecturers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ratings" EntityType="Self.ratings" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_Peremail" Association="Self.fk_Peremail">
+      <End Role="lecturers" EntitySet="lecturers" />
+      <End Role="email" EntitySet="email" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

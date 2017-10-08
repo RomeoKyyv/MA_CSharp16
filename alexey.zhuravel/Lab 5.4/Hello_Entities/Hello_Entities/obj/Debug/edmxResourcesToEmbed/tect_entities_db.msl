@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="tect_entities_dbModelStoreContainer" CdmEntityContainer="tect_entities_dbEntities">
+    <EntitySetMapping Name="course_lecturers">
+      <EntityTypeMapping TypeName="tect_entities_dbModel.course_lecturers">
+        <MappingFragment StoreEntitySet="course_lecturers">
+          <ScalarProperty Name="course_id" ColumnName="course_id" />
+          <ScalarProperty Name="lc_id" ColumnName="lc_id" />
+          <ScalarProperty Name="lc_order" ColumnName="lc_order" />
+          <ScalarProperty Name="share" ColumnName="share" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="courses">
+      <EntityTypeMapping TypeName="tect_entities_dbModel.cours">
+        <MappingFragment StoreEntitySet="courses">
+          <ScalarProperty Name="course_id" ColumnName="course_id" />
+          <ScalarProperty Name="course_name" ColumnName="course_name" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="facl_id" ColumnName="facl_id" />
+          <ScalarProperty Name="size" ColumnName="size" />
+          <ScalarProperty Name="marks" ColumnName="marks" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+          <ScalarProperty Name="begin_date" ColumnName="begin_date" />
+          <ScalarProperty Name="contract" ColumnName="contract" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="emails">
+      <EntityTypeMapping TypeName="tect_entities_dbModel.email">
+        <MappingFragment StoreEntitySet="email">
+          <ScalarProperty Name="em_Id" ColumnName="em_Id" />
+          <ScalarProperty Name="em_value" ColumnName="em_value" />
+          <ScalarProperty Name="lc_id" ColumnName="lc_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="faculties">
+      <EntityTypeMapping TypeName="tect_entities_dbModel.faculty">
+        <MappingFragment StoreEntitySet="faculties">
+          <ScalarProperty Name="facl_id" ColumnName="facl_id" />
+          <ScalarProperty Name="facl_name" ColumnName="facl_name" />
+          <ScalarProperty Name="university" ColumnName="university" />
+          <ScalarProperty Name="state" ColumnName="state" />
+          <ScalarProperty Name="country" ColumnName="country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="lecturers">
+      <EntityTypeMapping TypeName="tect_entities_dbModel.lecturer">
+        <MappingFragment StoreEntitySet="lecturers">
+          <ScalarProperty Name="lc_id" ColumnName="lc_id" />
+          <ScalarProperty Name="lc_fname" ColumnName="lc_fname" />
+          <ScalarProperty Name="lc_lname" ColumnName="lc_lname" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="state" ColumnName="state" />
+          <ScalarProperty Name="zip" ColumnName="zip" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ratings">
+      <EntityTypeMapping TypeName="tect_entities_dbModel.rating">
+        <MappingFragment StoreEntitySet="ratings">
+          <ScalarProperty Name="course_id" ColumnName="course_id" />
+          <ScalarProperty Name="bonus" ColumnName="bonus" />
+          <ScalarProperty Name="rate" ColumnName="rate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

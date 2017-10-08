@@ -1,0 +1,15 @@
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\bin\Debug\Hello_Entities.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\bin\Debug\tect_entities_db.mdf
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\bin\Debug\tect_entities_db_log.ldf
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\bin\Debug\Hello_Entities.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\bin\Debug\Hello_Entities.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\bin\Debug\EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\bin\Debug\EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\obj\Debug\Hello_Entities.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\obj\Debug\Hello_Entities.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_Entities\Hello_Entities\obj\Debug\Hello_Entities.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\270416_22\Lab_1_7_4\upgrade\begin\ado_net_174\Hello_Entities\Hello_Entities\bin\Debug\Hello_Entities.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\270416_22\Lab_1_7_4\upgrade\begin\ado_net_174\Hello_Entities\Hello_Entities\obj\Debug\Hello_Entities.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\270416_22\Lab_1_7_4\upgrade\begin\ado_net_174\Hello_Entities\Hello_Entities\obj\Debug\Hello_Entities.pdb
