@@ -1,12 +1,5 @@
 E:\sharp\SharpProject\bin\Debug\SharpProject.exe
 E:\sharp\SharpProject\bin\Debug\SharpProject.pdb
-E:\sharp\SharpProject\bin\Debug\mscorlib.dll
-E:\sharp\SharpProject\bin\Debug\ru\mscorlib.resources.dll
-E:\sharp\SharpProject\bin\Debug\normidna.nlp
-E:\sharp\SharpProject\bin\Debug\normnfc.nlp
-E:\sharp\SharpProject\bin\Debug\normnfd.nlp
-E:\sharp\SharpProject\bin\Debug\normnfkc.nlp
-E:\sharp\SharpProject\bin\Debug\normnfkd.nlp
 E:\sharp\SharpProject\obj\Debug\SharpProject.csprojResolveAssemblyReference.cache
 E:\sharp\SharpProject\obj\Debug\SharpProject.exe
 E:\sharp\SharpProject\obj\Debug\SharpProject.pdb
