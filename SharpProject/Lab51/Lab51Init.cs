@@ -13,7 +13,6 @@ namespace SharpProject.Lab51
             operation.ReadData("E:/temp", "test.txt");
             operation.WriteZip("E:/temp");
             operation.ReadZip("E:/temp", "test.txt.gz");
-            operation.WriteToFileFromMemoryStream
         }
     }
 }

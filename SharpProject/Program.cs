@@ -6,6 +6,7 @@ using SharpProject.Airport;
 using SharpProject.Lab41;
 using SharpProject.Lab43;
 using SharpProject.Lab51;
+using SharpProject.Lab52;
 using SharpProject.Properties;
 using SharpProject.sql;
 
@@ -15,7 +16,7 @@ namespace SharpProject
     {
         public static void Main(string[] args)
         {
-            new Lab51Init();
+            new Lab52Init();
         }
     }
 }
