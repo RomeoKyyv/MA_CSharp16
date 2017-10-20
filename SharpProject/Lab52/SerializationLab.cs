@@ -65,6 +65,8 @@ namespace SharpProject.Lab52
     public class Student
     {
         public string FirestName, LastName, City;
-        [field: NonSerialized()] public string Occupation;
+        [XmlIgnore]
+        [NonSerialized]
+        public string Occupation;
     }
 }
