@@ -63,6 +63,8 @@
     <Compile Include="Lab53\DBConnector.cs" />
     <Compile Include="Lab53\DBInfrastructure.cs" />
     <Compile Include="Lab53\Lab53Init.cs" />
+    <Compile Include="Lab62\AirplaneType.cs" />
+    <Compile Include="Lab62\Lab62Launcher.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

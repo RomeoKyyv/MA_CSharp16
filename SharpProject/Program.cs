@@ -7,6 +7,7 @@ using SharpProject.Lab43;
 using SharpProject.Lab51;
 using SharpProject.Lab52;
 using SharpProject.Lab53;
+using SharpProject.Lab62;
 using SharpProject.Properties;
 
 namespace SharpProject
@@ -15,7 +16,7 @@ namespace SharpProject
     {
         public static void Main(string[] args)
         {
-            new Lab53Init();
+            new Lab62Launcher();
         }
     }
 }
