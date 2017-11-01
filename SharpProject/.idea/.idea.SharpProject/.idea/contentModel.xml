@@ -1,5 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\aoski\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_SharpProject.-1494944643.00" t="ExcludeRecursive" />
+    <e p="E:\sharp\SharpProject" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Lab41" t="Include">
+        <e p="Customer.cs" t="Include" />
+        <e p="Lab41Init.cs" t="Include" />
+        <e p="OnlimeShop.cs" t="Include" />
+        <e p="ShopGoodsEventArgs.cs" t="Include" />
+      </e>
+      <e p="Lab42" t="Include">
+        <e p="BaseClass.cs" t="Include" />
+        <e p="Derived.cs" t="Include" />
+      </e>
+      <e p="Lab43" t="Include">
+        <e p="Animal.cs" t="Include" />
+        <e p="Lab43Init.cs" t="Include" />
+      </e>
+      <e p="Lab51" t="Include">
+        <e p="InOutOperation.cs" t="Include" />
+        <e p="Lab51Init.cs" t="Include" />
+      </e>
+      <e p="Lab52" t="Include">
+        <e p="Lab52.cs" t="Include" />
+        <e p="SerializationLab.cs" t="Include" />
+      </e>
+      <e p="Lab53" t="Include">
+        <e p="DBConnector.cs" t="Include" />
+        <e p="DBInfrastructure.cs" t="Include" />
+        <e p="Lab53Init.cs" t="Include" />
+      </e>
+      <e p="Lab62" t="Include">
+        <e p="AirplaneType.cs" t="Include" />
+        <e p="Lab62Launcher.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="SharpProject.csproj" t="IncludeRecursive" />
+      <e p="SharpProject.sln" t="IncludeFlat" />
+    </e>
+  </component>
   <component name="RiderRiderContentModelStore">
     <excludedPaths />
   </component>
