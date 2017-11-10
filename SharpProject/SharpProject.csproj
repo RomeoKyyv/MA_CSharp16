@@ -65,6 +65,9 @@
     <Compile Include="Lab53\Lab53Init.cs" />
     <Compile Include="Lab62\AirplaneType.cs" />
     <Compile Include="Lab62\Lab62Launcher.cs" />
+    <Compile Include="Lab63\Lab63launcher.cs" />
+    <Compile Include="Lab63\TestSubject.cs" />
+    <Compile Include="Lab63\UnitTests.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
